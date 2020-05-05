@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>info</color>
+        <css>.sample-footer {&#13;
+  font-size: 15px;&#13;
+}</css>
+        <glyph>exclamation-circle</glyph>
+        <id>covid19_disclaimer_footer</id>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>lg</size>
+        <sp_column display_value="1">4de078d6db205010cfe3c4ab0b961925</sp_column>
+        <sp_widget display_value="Covid19 Disclaimer footer">135decd2db205010cfe3c4ab0b9619ee</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-05 07:02:25</sys_created_on>
+        <sys_id>f23174d6db205010cfe3c4ab0b961962</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>sp_instance_f23174d6db205010cfe3c4ab0b961962</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-05 07:07:06</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=f23174d6db205010cfe3c4ab0b961962"/>
+</record_update>

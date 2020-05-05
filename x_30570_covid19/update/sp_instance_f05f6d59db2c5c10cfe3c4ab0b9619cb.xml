@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">35ce6159db2c5c10cfe3c4ab0b96199b</sp_column>
+        <sp_widget display_value="Performance Analytics">70a4b9396773220032468aaad485ef4b</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-02 08:59:47</sys_created_on>
+        <sys_id>f05f6d59db2c5c10cfe3c4ab0b9619cb</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>sp_instance_f05f6d59db2c5c10cfe3c4ab0b9619cb</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-02 09:00:23</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"widget_id": {
+		"value": "5c78d9d5dbe85c10cfe3c4ab0b96199b",
+		"displayValue": "Total Confirmed"
+	},
+	"show_title": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=f05f6d59db2c5c10cfe3c4ab0b9619cb"/>
+</record_update>

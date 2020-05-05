@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="State" max_length="40" name="x_30570_covid19_state" sizeclass="37" type="collection">
+        <element label="State Code" max_length="40" name="state_code" type="string"/>
+        <element display="true" label="State Name" max_length="40" name="state_name" type="string"/>
+    </element>
+</database>

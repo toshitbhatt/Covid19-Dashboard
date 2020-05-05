@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="DELETE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>test</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>test</name>
+        <natlang/>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-04-28 17:23:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ef3c3a80db605410cfe3c4ab0b961963</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>sys_hub_flow_ef3c3a80db605410cfe3c4ab0b961963</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-04-28 17:23:27</sys_updated_on>
+        <type>subflow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="DELETE" query="documentkey=ef3c3a80db605410cfe3c4ab0b961963"/>
+    <sys_variable_value action="DELETE" query="document_key=ef3c3a80db605410cfe3c4ab0b961963"/>
+    <sys_flow_cat_variable_model action="DELETE" query="id=ef3c3a80db605410cfe3c4ab0b961963^sys_idNOT INaf3c3a80db605410cfe3c4ab0b961964"/>
+    <sys_flow_cat_variable_model action="DELETE">
+        <id>ef3c3a80db605410cfe3c4ab0b961963</id>
+        <name>test</name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-04-28 17:23:27</sys_created_on>
+        <sys_id>af3c3a80db605410cfe3c4ab0b961964</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-04-28 17:23:27</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</application>
+        <file_path/>
+        <instance_id>4d49c53cdb4f3f008aea21c4059619ac</instance_id>
+        <instance_name>dev90152</instance_name>
+        <name>sys_hub_flow_ef3c3a80db605410cfe3c4ab0b961963</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow"><sys_hub_flow action="INSERT_OR_UPDATE"><access>public</access><acls/><active>false</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><compiler_build/><copied_from/><copied_from_name/><description/><internal_name>test</internal_name><label_cache>[]</label_cache><latest_snapshot/><master_snapshot/><name>test</name><natlang/><outputs/><remote_trigger_id/><run_as>user</run_as><sc_callable>false</sc_callable><show_draft_actions>false</show_draft_actions><show_triggered_flows>false</show_triggered_flows><status>draft</status><sys_class_name>sys_hub_flow</sys_class_name><sys_created_by>toshit.bhatt</sys_created_by><sys_created_on>2020-04-28 17:23:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ef3c3a80db605410cfe3c4ab0b961963</sys_id><sys_mod_count>0</sys_mod_count><sys_name>test</sys_name><sys_overrides/><sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package><sys_policy/><sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope><sys_update_name>sys_hub_flow_ef3c3a80db605410cfe3c4ab0b961963</sys_update_name><sys_updated_by>toshit.bhatt</sys_updated_by><sys_updated_on>2020-04-28 17:23:27</sys_updated_on><type>subflow</type></sys_hub_flow><sys_translated_text action="delete_multiple" query="documentkey=ef3c3a80db605410cfe3c4ab0b961963"/><sys_variable_value action="delete_multiple" query="document_key=ef3c3a80db605410cfe3c4ab0b961963"/><sys_flow_cat_variable_model action="delete_multiple" query="id=ef3c3a80db605410cfe3c4ab0b961963^sys_idNOT INaf3c3a80db605410cfe3c4ab0b961964"/><sys_flow_cat_variable_model action="INSERT_OR_UPDATE"><id>ef3c3a80db605410cfe3c4ab0b961963</id><name>test</name><sys_created_by>toshit.bhatt</sys_created_by><sys_created_on>2020-04-28 17:23:27</sys_created_on><sys_id>af3c3a80db605410cfe3c4ab0b961964</sys_id><sys_mod_count>0</sys_mod_count><sys_scope/><sys_updated_by>toshit.bhatt</sys_updated_by><sys_updated_on>2020-04-28 17:23:27</sys_updated_on></sys_flow_cat_variable_model></record_update>]]></payload>
+        <payload_hash>-1174927254</payload_hash>
+        <record_name>test</record_name>
+        <reverted_from/>
+        <source>b41e10efdb50d010cfe3c4ab0b961962</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-04-28 17:23:27</sys_created_on>
+        <sys_id>6f3c7244db605410cfe3c4ab0b9619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c1d0a06d0000001</sys_recorded_at>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-04-28 17:23:27</sys_updated_on>
+        <type>Flow</type>
+        <update_guid>ab3c3a80f3605410ab5d092170ff9a67</update_guid>
+        <update_guid_history>ab3c3a80f3605410ab5d092170ff9a67:-1174927254</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-04-28 17:24:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_flow">sys_hub_flow</sys_db_object>
+        <sys_id>029196b5ab394f25822a268cec955441</sys_id>
+        <sys_metadata>ef3c3a80db605410cfe3c4ab0b961963</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_scope_delete display_value="">2c6bc6165bb549eca5622a9bc0cb1544</sys_scope_delete>
+        <sys_update_name>sys_hub_flow_ef3c3a80db605410cfe3c4ab0b961963</sys_update_name>
+        <sys_update_version display_value="sys_hub_flow_ef3c3a80db605410cfe3c4ab0b961963">6f3c7244db605410cfe3c4ab0b9619cc</sys_update_version>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-04-28 17:24:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

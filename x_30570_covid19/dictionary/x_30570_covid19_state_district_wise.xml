@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="State District Wise" max_length="40" name="x_30570_covid19_state_district_wise" sizeclass="571" type="collection">
+        <element label="Active Cases" max_length="40" name="active_cases" type="integer"/>
+        <element label="Confirmed Cases" max_length="40" name="confirmed_cases" type="integer"/>
+        <element label="Deceased" max_length="40" name="deceased" type="integer"/>
+        <element label="Delta Confirmed" max_length="40" name="delta_confirmed" type="integer"/>
+        <element label="Delta Deceased" max_length="40" name="delta_deceased" type="integer"/>
+        <element label="Delta Recovered" max_length="40" name="delta_recovered" type="integer"/>
+        <element display="true" label="District Name" max_length="40" name="district_name" type="string"/>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element label="Notes" max_length="40" name="notes" type="string"/>
+        <element label="Recovered" max_length="40" name="recovered" type="integer"/>
+        <element label="State" max_length="32" name="state" reference="x_30570_covid19_state" type="reference"/>
+        <element label="Stat Updated On" max_length="40" name="stat_updated_on" type="glide_date_time"/>
+        <index name="index">
+            <element name="location"/>
+        </index>
+        <index name="index2">
+            <element name="state"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="total_confirmed" label="Total Confirmed" language="en" table="x_30570_covid19_date_wise_cases">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>total_confirmed</element>
+            <help/>
+            <hint/>
+            <label>Total Confirmed</label>
+            <language>en</language>
+            <name>x_30570_covid19_date_wise_cases</name>
+            <plural>Total Confirmed</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>toshit.bhatt</sys_created_by>
+            <sys_created_on>2020-04-26 16:40:14</sys_created_on>
+            <sys_id>072f94e7db90d010cfe3c4ab0b961952</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Total Confirmed</sys_name>
+            <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+            <sys_update_name>sys_documentation_x_30570_covid19_date_wise_cases_total_confirmed_en</sys_update_name>
+            <sys_updated_by>toshit.bhatt</sys_updated_by>
+            <sys_updated_on>2020-04-26 16:40:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

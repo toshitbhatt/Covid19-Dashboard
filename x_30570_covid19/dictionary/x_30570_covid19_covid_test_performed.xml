@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Covid Test Performed" max_length="40" name="x_30570_covid19_covid_test_performed" sizeclass="47" type="collection">
+        <element label="Last Updated" max_length="40" name="last_updated" type="glide_date_time"/>
+        <element label="Total Samples Tested" max_length="40" name="total_samples_tested" type="integer"/>
+    </element>
+</database>

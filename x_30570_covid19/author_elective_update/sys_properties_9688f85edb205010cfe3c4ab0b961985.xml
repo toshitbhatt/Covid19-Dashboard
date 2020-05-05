@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_30570_covid19.glide.entry.page.script</name>
+        <read_roles/>
+        <suffix>glide.entry.page.script</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-05 07:34:48</sys_created_on>
+        <sys_id>9688f85edb205010cfe3c4ab0b961985</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_30570_covid19.glide.entry.page.script</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>sys_properties_9688f85edb205010cfe3c4ab0b961985</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-05 07:34:48</sys_updated_on>
+        <type>string</type>
+        <value>new SPEntryPage().getLoginURL()</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=9688f85edb205010cfe3c4ab0b961985"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</application>
+        <file_path/>
+        <instance_id>4d49c53cdb4f3f008aea21c4059619ac</instance_id>
+        <instance_name>dev90152</instance_name>
+        <name>sys_properties_9688f85edb205010cfe3c4ab0b961985</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description/><ignore_cache>false</ignore_cache><is_private>false</is_private><name>x_30570_covid19.glide.entry.page.script</name><read_roles/><suffix>glide.entry.page.script</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>toshit.bhatt</sys_created_by><sys_created_on>2020-05-05 07:34:48</sys_created_on><sys_id>9688f85edb205010cfe3c4ab0b961985</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_30570_covid19.glide.entry.page.script</sys_name><sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package><sys_policy/><sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope><sys_update_name>sys_properties_9688f85edb205010cfe3c4ab0b961985</sys_update_name><sys_updated_by>toshit.bhatt</sys_updated_by><sys_updated_on>2020-05-05 07:34:48</sys_updated_on><type>string</type><value>new SPEntryPage().getLoginURL()</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=9688f85edb205010cfe3c4ab0b961985"/></record_update>]]></payload>
+        <payload_hash>-1195261564</payload_hash>
+        <record_name>x_30570_covid19.glide.entry.page.script</record_name>
+        <reverted_from/>
+        <source>b41e10efdb50d010cfe3c4ab0b961962</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-05 07:34:49</sys_created_on>
+        <sys_id>d9a83c5edb205010cfe3c4ab0b9619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171e3c23cc40000001</sys_recorded_at>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-05 07:34:49</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>9da83c5edc2050103b868d2402be77cc</update_guid>
+        <update_guid_history>9da83c5edc2050103b868d2402be77cc:-1195261564</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-05 07:35:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>07875d3b3aff44478366e47b43e2b7a9</sys_id>
+        <sys_metadata>9688f85edb205010cfe3c4ab0b961985</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_30570_covid19.glide.entry.page.script</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_scope_delete display_value="">2c6bc6165bb549eca5622a9bc0cb1544</sys_scope_delete>
+        <sys_update_name>sys_properties_9688f85edb205010cfe3c4ab0b961985</sys_update_name>
+        <sys_update_version display_value="sys_properties_9688f85edb205010cfe3c4ab0b961985">d9a83c5edb205010cfe3c4ab0b9619cd</sys_update_version>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-05 07:35:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

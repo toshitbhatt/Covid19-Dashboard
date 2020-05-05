@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Analytics - Container 2</name>
+        <order>2</order>
+        <sp_page display_value="analytics">0e7e2959db2c5c10cfe3c4ab0b96199d</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-03 16:46:59</sys_created_on>
+        <sys_id>16d3a439dbec9c10cfe3c4ab0b9619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Analytics - Container 2</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>sp_container_16d3a439dbec9c10cfe3c4ab0b9619cc</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-03 16:46:59</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>

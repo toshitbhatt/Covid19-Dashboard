@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Date Wise Cases" max_length="40" name="x_30570_covid19_date_wise_cases" sizeclass="282" type="collection">
+        <element label="Active" max_length="40" name="active" type="integer"/>
+        <element label="Daily Confirmed" max_length="40" name="daily_confirmed" type="integer"/>
+        <element label="Daily Deceased" max_length="40" name="daily_deceased" type="integer"/>
+        <element label="Daily Recovered" max_length="40" name="daily_recovered" type="integer"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Delta Confirmed" max_length="40" name="delta_confirmed" type="integer"/>
+        <element label="Delta Deceased" max_length="40" name="delta_deceased" type="integer"/>
+        <element label="Delta Recovered" max_length="40" name="delta_recovered" type="integer"/>
+        <element label="Last Updated" max_length="40" name="last_updated" type="glide_date_time"/>
+        <element label="State" max_length="32" name="state" reference="x_30570_covid19_state" type="reference"/>
+        <element label="State Code" max_length="40" name="state_code" type="string"/>
+        <element label="Total Confirmed" max_length="40" name="total_confirmed" type="integer"/>
+        <element label="Total Deceased" max_length="40" name="total_deceased" type="integer"/>
+        <element label="Total Recovered" max_length="40" name="total_recovered" type="integer"/>
+        <index name="index">
+            <element name="state"/>
+        </index>
+    </element>
+</database>

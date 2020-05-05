@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_script">
+    <sys_ui_script action="DELETE">
+        <active>true</active>
+        <description/>
+        <global>false</global>
+        <name>x_30570_covid19.RestrictReportDrilldown</name>
+        <script><![CDATA[var x_30570_covid19 = x_30570_covid19 || {};
+
+x_30570_covid19.RestrictReportDrilldown = (function() {
+	"use strict";
+
+/* set your private variables and functions here. For example: 
+	var privateVar = 0; 
+	function private_function() {
+		return ++privateVar;
+	}
+*/
+
+/* Share variables between multiple UI scripts by adding them to your scope object. For example: 
+	x_30570_covid19.sharedVar = 0; 
+
+ Then access them in your scripts the same way. For example: 
+	function get_shared() {
+		return x_30570_covid19.sharedVar;
+	}
+*/
+window.addEventListener('load', reportVisitorStyle());
+
+  window.onload = function()
+  {
+    document.getElementById('report_drill_link').style.display = 'none';
+  };
+
+	
+	return {
+
+/* set your public API here. For example:
+		incrementAndReturnPrivateVar: function() {
+			return private_function();
+		},
+*/
+		type:  "RestrictReportDrilldown"
+	};
+})();
+]]></script>
+        <script_name>RestrictReportDrilldown</script_name>
+        <sys_class_name>sys_ui_script</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-04 10:20:53</sys_created_on>
+        <sys_id>b3549882dbe01010cfe3c4ab0b961974</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_30570_covid19.RestrictReportDrilldown</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>sys_ui_script_b3549882dbe01010cfe3c4ab0b961974</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-04 10:20:53</sys_updated_on>
+        <ui_type>10</ui_type>
+        <use_scoped_format>true</use_scoped_format>
+    </sys_ui_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</application>
+        <file_path/>
+        <instance_id>4d49c53cdb4f3f008aea21c4059619ac</instance_id>
+        <instance_name>dev90152</instance_name>
+        <name>sys_ui_script_b3549882dbe01010cfe3c4ab0b961974</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_script"&gt;&lt;sys_ui_script action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;description/&gt;&lt;global&gt;false&lt;/global&gt;&lt;name&gt;x_30570_covid19.RestrictReportDrilldown&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var x_30570_covid19 = x_30570_covid19 || {};
+
+x_30570_covid19.RestrictReportDrilldown = (function() {
+	"use strict";
+
+/* set your private variables and functions here. For example: 
+	var privateVar = 0; 
+	function private_function() {
+		return ++privateVar;
+	}
+*/
+
+/* Share variables between multiple UI scripts by adding them to your scope object. For example: 
+	x_30570_covid19.sharedVar = 0; 
+
+ Then access them in your scripts the same way. For example: 
+	function get_shared() {
+		return x_30570_covid19.sharedVar;
+	}
+*/
+window.addEventListener('load', reportVisitorStyle());
+
+  window.onload = function()
+  {
+    document.getElementById('report_drill_link').style.display = 'none';
+  };
+
+	
+	return {
+
+/* set your public API here. For example:
+		incrementAndReturnPrivateVar: function() {
+			return private_function();
+		},
+*/
+		type:  "RestrictReportDrilldown"
+	};
+})();
+]]&gt;&lt;/script&gt;&lt;script_name&gt;RestrictReportDrilldown&lt;/script_name&gt;&lt;sys_class_name&gt;sys_ui_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;toshit.bhatt&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-04 10:20:53&lt;/sys_created_on&gt;&lt;sys_id&gt;b3549882dbe01010cfe3c4ab0b961974&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_30570_covid19.RestrictReportDrilldown&lt;/sys_name&gt;&lt;sys_package display_value="Covid19" source="x_30570_covid19"&gt;f81e10efdb50d010cfe3c4ab0b96195f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Covid19"&gt;f81e10efdb50d010cfe3c4ab0b96195f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_script_b3549882dbe01010cfe3c4ab0b961974&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;toshit.bhatt&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-04 10:20:53&lt;/sys_updated_on&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;use_scoped_format&gt;true&lt;/use_scoped_format&gt;&lt;/sys_ui_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1974790347</payload_hash>
+        <record_name>x_30570_covid19.RestrictReportDrilldown</record_name>
+        <reverted_from/>
+        <source>b41e10efdb50d010cfe3c4ab0b961962</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-04 10:20:53</sys_created_on>
+        <sys_id>9c1590c2dbe01010cfe3c4ab0b9619d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171df33ea290000001</sys_recorded_at>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-04 10:20:53</sys_updated_on>
+        <type>UI Script</type>
+        <update_guid>541590c2fce01010206059e57aa718d6</update_guid>
+        <update_guid_history>541590c2fce01010206059e57aa718d6:-1974790347</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-04 10:34:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_script">sys_ui_script</sys_db_object>
+        <sys_id>37e89d93950b47bb9858c39ab15948b1</sys_id>
+        <sys_metadata>b3549882dbe01010cfe3c4ab0b961974</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_30570_covid19.RestrictReportDrilldown</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_scope_delete display_value="">2c6bc6165bb549eca5622a9bc0cb1544</sys_scope_delete>
+        <sys_update_name>sys_ui_script_b3549882dbe01010cfe3c4ab0b961974</sys_update_name>
+        <sys_update_version display_value="sys_ui_script_b3549882dbe01010cfe3c4ab0b961974">9c1590c2dbe01010cfe3c4ab0b9619d6</sys_update_version>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-04 10:34:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

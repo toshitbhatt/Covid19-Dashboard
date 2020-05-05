@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Test">6a86f0fcdb601c10cfe3c4ab0b96194b</grid_canvas>
+        <height>12</height>
+        <portal_widget display_value="">6a86f0fcdb601c10cfe3c4ab0b961947</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-04-30 15:34:44</sys_created_on>
+        <sys_id>6686f0fcdb601c10cfe3c4ab0b96194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6a86f0fcdb601c10cfe3c4ab0b96194b</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_6686f0fcdb601c10cfe3c4ab0b96194f</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-04-30 15:34:44</sys_updated_on>
+        <width>6</width>
+    </sys_grid_canvas_pane>
+</record_update>

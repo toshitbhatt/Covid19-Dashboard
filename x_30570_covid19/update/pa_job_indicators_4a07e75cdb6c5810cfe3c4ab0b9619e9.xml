@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>temporary job for collecting State District Wise Indicator 1 - State District Wise Indicator 1</display>
+        <indicator display_value="State District Wise Indicator 1">7507a794dbac5810cfe3c4ab0b9619bd</indicator>
+        <job display_value="temporary job for collecting State District Wise Indicator 1">0207e75cdb6c5810cfe3c4ab0b9619e8</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-04-29 15:08:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4a07e75cdb6c5810cfe3c4ab0b9619e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>State District Wise Indicator 1.temporary job for collecting State District Wise Indicator 1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>pa_job_indicators_4a07e75cdb6c5810cfe3c4ab0b9619e9</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-04-29 15:08:53</sys_updated_on>
+    </pa_job_indicators>
+</record_update>

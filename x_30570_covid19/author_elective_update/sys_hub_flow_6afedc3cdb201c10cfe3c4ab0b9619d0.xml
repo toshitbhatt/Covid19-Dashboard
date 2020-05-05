@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="DELETE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>update_coordinates</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Update Coordinates</name>
+        <natlang/>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-04-30 13:51:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6afedc3cdb201c10cfe3c4ab0b9619d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Coordinates</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>sys_hub_flow_6afedc3cdb201c10cfe3c4ab0b9619d0</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-04-30 13:51:47</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="DELETE" query="documentkey=6afedc3cdb201c10cfe3c4ab0b9619d0"/>
+    <sys_variable_value action="DELETE" query="document_key=6afedc3cdb201c10cfe3c4ab0b9619d0"/>
+    <sys_flow_cat_variable_model action="DELETE" query="id=6afedc3cdb201c10cfe3c4ab0b9619d0^sys_idNOT INeefed07cdb201c10cfe3c4ab0b9619e7"/>
+    <sys_flow_cat_variable_model action="DELETE">
+        <id>6afedc3cdb201c10cfe3c4ab0b9619d0</id>
+        <name>Update Coordinates</name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-04-30 13:51:47</sys_created_on>
+        <sys_id>eefed07cdb201c10cfe3c4ab0b9619e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-04-30 13:51:47</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</application>
+        <file_path/>
+        <instance_id>4d49c53cdb4f3f008aea21c4059619ac</instance_id>
+        <instance_name>dev90152</instance_name>
+        <name>sys_hub_flow_6afedc3cdb201c10cfe3c4ab0b9619d0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow"><sys_hub_flow action="INSERT_OR_UPDATE"><access>public</access><acls/><active>false</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><compiler_build/><copied_from/><copied_from_name/><description/><internal_name>update_coordinates</internal_name><label_cache>[]</label_cache><latest_snapshot/><master_snapshot/><name>Update Coordinates</name><natlang/><outputs/><remote_trigger_id/><run_as>user</run_as><sc_callable>false</sc_callable><show_draft_actions>false</show_draft_actions><show_triggered_flows>false</show_triggered_flows><status>draft</status><sys_class_name>sys_hub_flow</sys_class_name><sys_created_by>toshit.bhatt</sys_created_by><sys_created_on>2020-04-30 13:51:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6afedc3cdb201c10cfe3c4ab0b9619d0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Update Coordinates</sys_name><sys_overrides/><sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package><sys_policy/><sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope><sys_update_name>sys_hub_flow_6afedc3cdb201c10cfe3c4ab0b9619d0</sys_update_name><sys_updated_by>toshit.bhatt</sys_updated_by><sys_updated_on>2020-04-30 13:51:47</sys_updated_on><type>flow</type></sys_hub_flow><sys_translated_text action="delete_multiple" query="documentkey=6afedc3cdb201c10cfe3c4ab0b9619d0"/><sys_variable_value action="delete_multiple" query="document_key=6afedc3cdb201c10cfe3c4ab0b9619d0"/><sys_flow_cat_variable_model action="delete_multiple" query="id=6afedc3cdb201c10cfe3c4ab0b9619d0^sys_idNOT INeefed07cdb201c10cfe3c4ab0b9619e7"/><sys_flow_cat_variable_model action="INSERT_OR_UPDATE"><id>6afedc3cdb201c10cfe3c4ab0b9619d0</id><name>Update Coordinates</name><sys_created_by>toshit.bhatt</sys_created_by><sys_created_on>2020-04-30 13:51:47</sys_created_on><sys_id>eefed07cdb201c10cfe3c4ab0b9619e7</sys_id><sys_mod_count>0</sys_mod_count><sys_scope/><sys_updated_by>toshit.bhatt</sys_updated_by><sys_updated_on>2020-04-30 13:51:47</sys_updated_on></sys_flow_cat_variable_model></record_update>]]></payload>
+        <payload_hash>717762865</payload_hash>
+        <record_name>Update Coordinates</record_name>
+        <reverted_from/>
+        <source>b41e10efdb50d010cfe3c4ab0b961962</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-04-30 13:51:48</sys_created_on>
+        <sys_id>bafed07cdb201c10cfe3c4ab0b9619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171cb5b92930000001</sys_recorded_at>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-04-30 13:51:48</sys_updated_on>
+        <type>Flow</type>
+        <update_guid>f2fed07c12201c10743cab08c6f20bed</update_guid>
+        <update_guid_history>f2fed07c12201c10743cab08c6f20bed:717762865</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-01 13:08:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_flow">sys_hub_flow</sys_db_object>
+        <sys_id>2ee30c6050df4f8dace9930d6b0fff39</sys_id>
+        <sys_metadata>6afedc3cdb201c10cfe3c4ab0b9619d0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Coordinates</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_scope_delete display_value="">2c6bc6165bb549eca5622a9bc0cb1544</sys_scope_delete>
+        <sys_update_name>sys_hub_flow_6afedc3cdb201c10cfe3c4ab0b9619d0</sys_update_name>
+        <sys_update_version display_value="sys_hub_flow_6afedc3cdb201c10cfe3c4ab0b9619d0">bafed07cdb201c10cfe3c4ab0b9619ed</sys_update_version>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-01 13:08:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <size>6</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">3174d115dbe85c10cfe3c4ab0b96198d</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-02 07:02:26</sys_created_on>
+        <sys_id>f174d115dbe85c10cfe3c4ab0b96199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>sp_column_f174d115dbe85c10cfe3c4ab0b96199b</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-02 07:02:26</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</application>
+        <file_path/>
+        <instance_id>4d49c53cdb4f3f008aea21c4059619ac</instance_id>
+        <instance_name>dev90152</instance_name>
+        <name>sp_column_f174d115dbe85c10cfe3c4ab0b96199b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>6</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">3174d115dbe85c10cfe3c4ab0b96198d</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>toshit.bhatt</sys_created_by><sys_created_on>2020-05-02 07:02:26</sys_created_on><sys_id>f174d115dbe85c10cfe3c4ab0b96199b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package><sys_policy/><sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope><sys_update_name>sp_column_f174d115dbe85c10cfe3c4ab0b96199b</sys_update_name><sys_updated_by>toshit.bhatt</sys_updated_by><sys_updated_on>2020-05-02 07:02:26</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>1271723458</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>b41e10efdb50d010cfe3c4ab0b961962</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-02 07:02:26</sys_created_on>
+        <sys_id>7974d115dbe85c10cfe3c4ab0b96199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171d431820b0000001</sys_recorded_at>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-02 07:02:26</sys_updated_on>
+        <type>Column</type>
+        <update_guid>b174d1155ee85c1006fc6afb494fb59c</update_guid>
+        <update_guid_history>b174d1155ee85c1006fc6afb494fb59c:1271723458</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">89759155dbe85c10cfe3c4ab0b9619ad</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-02 07:06:45</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>434c8440853b431a8cb3adc73373a5e4</sys_id>
+        <sys_metadata>f174d115dbe85c10cfe3c4ab0b96199b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_scope_delete display_value="">2c6bc6165bb549eca5622a9bc0cb1544</sys_scope_delete>
+        <sys_update_name>sp_column_f174d115dbe85c10cfe3c4ab0b96199b</sys_update_name>
+        <sys_update_version display_value="sp_column_f174d115dbe85c10cfe3c4ab0b96199b">7974d115dbe85c10cfe3c4ab0b96199c</sys_update_version>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-02 07:06:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

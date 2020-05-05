@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function() {
+  // widget controller
+  var c = this;
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.sample-footer {
+  background-color: #AB2328; 
+  color: white; 
+  padding: 5px;
+}</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>true</has_preview>
+        <id>covid19_disclaimer</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>Covid19 Disclaimer</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {
+ data.time = new GlideDateTime().getDisplayValue();
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-05 06:35:31</sys_created_on>
+        <sys_id>a81ba892db205010cfe3c4ab0b961900</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Covid19 Disclaimer</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>sp_widget_a81ba892db205010cfe3c4ab0b961900</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-05 06:44:24</sys_updated_on>
+        <template><![CDATA[ <div class="sample-footer">	
+   ${<b>Disclaimer:</b> This page is only to demonstrate ServiceNow capabilities and used for personal code development purposes. The data shown is taken from public API's and maybe inaccurate. This portal should not be used for any purpose other than understanding ServiceNow capabilities and development.}
+ </div>]]></template>
+    </sp_widget>
+</record_update>

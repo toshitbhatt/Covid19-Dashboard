@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="ec171350dba41810cfe3c4ab0b9619d6" sys_domain="global" table="x_30570_covid19_state_district_wise" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>toshit.bhatt</sys_created_by>
+            <sys_created_on>2020-04-29 13:59:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc175f50dba41810cfe3c4ab0b9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_30570_covid19_state_district_wise" name="x_30570_covid19_state_district_wise" sys_domain="global" view="Default view">ec171350dba41810cfe3c4ab0b9619d6</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_30570_covid19_state_district_wise" sys_domain="global" view="Default view">a5598f10db60d410cfe3c4ab0b9619e3</sys_ui_section>
+            <sys_updated_by>toshit.bhatt</sys_updated_by>
+            <sys_updated_on>2020-04-29 13:59:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>toshit.bhatt</sys_created_by>
+            <sys_created_on>2020-04-29 13:59:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc175f50dba41810cfe3c4ab0b9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_30570_covid19_state_district_wise" name="x_30570_covid19_state_district_wise" sys_domain="global" view="Default view">ec171350dba41810cfe3c4ab0b9619d6</sys_ui_form>
+            <sys_ui_section caption="Active and Confirm" display_value="Active and Confirm" name="x_30570_covid19_state_district_wise" sys_domain="global" view="Default view">6c171350dba41810cfe3c4ab0b9619d3</sys_ui_section>
+            <sys_updated_by>toshit.bhatt</sys_updated_by>
+            <sys_updated_on>2020-04-29 13:59:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>toshit.bhatt</sys_created_by>
+            <sys_created_on>2020-04-29 13:59:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4175f50dba41810cfe3c4ab0b9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_30570_covid19_state_district_wise" name="x_30570_covid19_state_district_wise" sys_domain="global" view="Default view">ec171350dba41810cfe3c4ab0b9619d6</sys_ui_form>
+            <sys_ui_section caption="Recovered and Deceased" display_value="Recovered and Deceased" name="x_30570_covid19_state_district_wise" sys_domain="global" view="Default view">e4171350dba41810cfe3c4ab0b9619d5</sys_ui_section>
+            <sys_updated_by>toshit.bhatt</sys_updated_by>
+            <sys_updated_on>2020-04-29 13:59:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_30570_covid19_state_district_wise</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>toshit.bhatt</sys_created_by>
+            <sys_created_on>2020-04-29 13:59:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec171350dba41810cfe3c4ab0b9619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_30570_covid19_state_district_wise</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ec171350dba41810cfe3c4ab0b9619d6</sys_update_name>
+            <sys_updated_by>toshit.bhatt</sys_updated_by>
+            <sys_updated_on>2020-04-29 13:59:09</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="DELETE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>temporary job for collecting Date Wise Indicator for Total Decease cases - Date Wise Indicator for Total Decease cases</display>
+        <indicator display_value="Date Wise Indicator for Total Decease cases">a68678bcdb601c10cfe3c4ab0b96197c</indicator>
+        <job display_value="temporary job for collecting Date Wise Indicator for Total Decease cases">fa86fcbcdb601c10cfe3c4ab0b9619ef</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-04-30 15:34:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7e86fcbcdb601c10cfe3c4ab0b9619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Date Wise Indicator for Total Decease cases.temporary job for collecting Date Wise Indicator for Total Decease cases</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>pa_job_indicators_7e86fcbcdb601c10cfe3c4ab0b9619f1</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-04-30 15:34:45</sys_updated_on>
+    </pa_job_indicators>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</application>
+        <file_path/>
+        <instance_id>4d49c53cdb4f3f008aea21c4059619ac</instance_id>
+        <instance_name>dev90152</instance_name>
+        <name>pa_job_indicators_7e86fcbcdb601c10cfe3c4ab0b9619f1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators"><pa_job_indicators action="INSERT_OR_UPDATE"><active>true</active><collect>1</collect><collect_indicator>true</collect_indicator><display>temporary job for collecting Date Wise Indicator for Total Decease cases - Date Wise Indicator for Total Decease cases</display><indicator display_value="Date Wise Indicator for Total Decease cases">a68678bcdb601c10cfe3c4ab0b96197c</indicator><job display_value="temporary job for collecting Date Wise Indicator for Total Decease cases">fa86fcbcdb601c10cfe3c4ab0b9619ef</job><sys_class_name>pa_job_indicators</sys_class_name><sys_created_by>toshit.bhatt</sys_created_by><sys_created_on>2020-04-30 15:34:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7e86fcbcdb601c10cfe3c4ab0b9619f1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Date Wise Indicator for Total Decease cases.temporary job for collecting Date Wise Indicator for Total Decease cases</sys_name><sys_overrides/><sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package><sys_policy/><sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope><sys_update_name>pa_job_indicators_7e86fcbcdb601c10cfe3c4ab0b9619f1</sys_update_name><sys_updated_by>toshit.bhatt</sys_updated_by><sys_updated_on>2020-04-30 15:34:45</sys_updated_on></pa_job_indicators></record_update>]]></payload>
+        <payload_hash>962952685</payload_hash>
+        <record_name>temporary job for collecting Date Wise Indicator for Total Decease cases - Date Wise Indicator for T</record_name>
+        <reverted_from/>
+        <source>b41e10efdb50d010cfe3c4ab0b961962</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-04-30 15:34:45</sys_created_on>
+        <sys_id>ba86fcbcdb601c10cfe3c4ab0b9619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171cbb9d5000000001</sys_recorded_at>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-04-30 15:34:45</sys_updated_on>
+        <type>Job Indicator</type>
+        <update_guid>f286fcbc9a601c10e90c383fa914bcf7</update_guid>
+        <update_guid_history>f286fcbc9a601c10e90c383fa914bcf7:962952685</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="temporary job for collecting Date Wise Indicator for Total Decease cases - ">b2a7b030dba01c10cfe3c4ab0b961955</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-04-30 15:39:40</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicators">pa_job_indicators</sys_db_object>
+        <sys_id>488354221e384606a69de4397921e7a4</sys_id>
+        <sys_metadata>7e86fcbcdb601c10cfe3c4ab0b9619f1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Date Wise Indicator for Total Decease cases.temporary job for collecting Date Wise Indicator for Total Decease cases</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_parent display_value="temporary job for collecting Date Wise Indicator for Total Decease cases">fa86fcbcdb601c10cfe3c4ab0b9619ef</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_scope_delete display_value="">2c6bc6165bb549eca5622a9bc0cb1544</sys_scope_delete>
+        <sys_update_name>pa_job_indicators_7e86fcbcdb601c10cfe3c4ab0b9619f1</sys_update_name>
+        <sys_update_version display_value="pa_job_indicators_7e86fcbcdb601c10cfe3c4ab0b9619f1">ba86fcbcdb601c10cfe3c4ab0b9619f7</sys_update_version>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-04-30 15:39:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
