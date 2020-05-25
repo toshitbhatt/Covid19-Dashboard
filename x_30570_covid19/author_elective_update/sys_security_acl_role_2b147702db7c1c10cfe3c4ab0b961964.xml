@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-17 12:52:18</sys_created_on>
+        <sys_id>2b147702db7c1c10cfe3c4ab0b961964</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_30570_covid19_state.*.snc_internal</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_security_acl display_value="x_30570_covid19_state.*">162e670edb3c1c10cfe3c4ab0b961905</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2b147702db7c1c10cfe3c4ab0b961964</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-17 12:52:18</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</application>
+        <file_path/>
+        <instance_id>4d49c53cdb4f3f008aea21c4059619ac</instance_id>
+        <instance_name>dev90152</instance_name>
+        <name>sys_security_acl_role_2b147702db7c1c10cfe3c4ab0b961964</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>toshit.bhatt</sys_created_by><sys_created_on>2020-05-17 12:52:18</sys_created_on><sys_id>2b147702db7c1c10cfe3c4ab0b961964</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_30570_covid19_state.*.snc_internal</sys_name><sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package><sys_policy/><sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope><sys_security_acl display_value="x_30570_covid19_state.*">162e670edb3c1c10cfe3c4ab0b961905</sys_security_acl><sys_update_name>sys_security_acl_role_2b147702db7c1c10cfe3c4ab0b961964</sys_update_name><sys_updated_by>toshit.bhatt</sys_updated_by><sys_updated_on>2020-05-17 12:52:18</sys_updated_on><sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>494774073</payload_hash>
+        <record_name>x_30570_covid19_state.*.snc_internal</record_name>
+        <reverted_from/>
+        <source>386286d6db245010cfe3c4ab0b9619ab</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-17 12:52:18</sys_created_on>
+        <sys_id>0564b742db7c1c10cfe3c4ab0b961965</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17222b1356d0000001</sys_recorded_at>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-17 12:52:18</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>4d64b742b17c1c106dfe4d91ffd0f164</update_guid>
+        <update_guid_history>4d64b742b17c1c106dfe4d91ffd0f164:494774073</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_30570_covid19_state.*.snc_internal">a0943f42db7c1c10cfe3c4ab0b96193c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-17 12:53:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>07da577f5ed443a9909094d298d9c9a1</sys_id>
+        <sys_metadata>2b147702db7c1c10cfe3c4ab0b961964</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_30570_covid19_state.*.snc_internal</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_scope_delete display_value="">2c6bc6165bb549eca5622a9bc0cb1544</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_2b147702db7c1c10cfe3c4ab0b961964</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_2b147702db7c1c10cfe3c4ab0b961964">0564b742db7c1c10cfe3c4ab0b961965</sys_update_version>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-17 12:53:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

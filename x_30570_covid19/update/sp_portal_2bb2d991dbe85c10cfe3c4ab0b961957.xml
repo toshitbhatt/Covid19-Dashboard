@@ -59,6 +59,7 @@ $text-muted:#666666;
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>icon</file_name>
         <hash>c68da8047bec28b4b662afa089da3b4380509bb0a6f1886330fb1ef72cafd89b</hash>
         <image_height>140</image_height>
@@ -100,6 +101,7 @@ $text-muted:#666666;
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/jpeg</content_type>
+        <encryption_context/>
         <file_name>logo</file_name>
         <hash>812a52b7a6072962255a30bd7c4d38068a2cdae4b848dc8c80d8437e152667eb</hash>
         <image_height>226</image_height>

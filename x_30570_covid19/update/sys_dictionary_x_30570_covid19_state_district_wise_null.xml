@@ -47,21 +47,21 @@
         <reference_qual/>
         <reference_qual_condition/>
         <reference_type/>
-        <sizeclass>571</sizeclass>
+        <sizeclass>9721</sizeclass>
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-04-28 17:00:30</sys_created_on>
         <sys_id>13f6f240db605410cfe3c4ab0b961950</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>27</sys_mod_count>
         <sys_name>x_30570_covid19_state_district_wise</sys_name>
         <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
         <sys_update_name>sys_dictionary_x_30570_covid19_state_district_wise_null</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2020-05-05 10:42:57</sys_updated_on>
+        <sys_updated_on>2020-05-25 10:42:57</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

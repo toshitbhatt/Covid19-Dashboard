@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>false</admin_overrides>
+        <advanced>false</advanced>
+        <condition table="x_30570_covid19_state.*">sys_created_onONToday@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description>Allow report_on for all fields in x_30570_covid19_state, for users with roles (admin, snc_internal), and if the ACL condition (sys_created_onONToday@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()^EQ) evaluates to true.</description>
+        <name>x_30570_covid19_state.*</name>
+        <operation display_value="report_on">f6861c32c0a8016400647951e901525d</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-17 12:29:48</sys_created_on>
+        <sys_id>162e670edb3c1c10cfe3c4ab0b961905</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>x_30570_covid19_state.*</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>sys_security_acl_162e670edb3c1c10cfe3c4ab0b961905</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-17 12:40:30</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</application>
+        <file_path/>
+        <instance_id>4d49c53cdb4f3f008aea21c4059619ac</instance_id>
+        <instance_name>dev90152</instance_name>
+        <name>sys_security_acl_162e670edb3c1c10cfe3c4ab0b961905</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>false</admin_overrides><advanced>false</advanced><condition table="x_30570_covid19_state.*">sys_created_onONToday@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><description>Allow report_on for all fields in x_30570_covid19_state, for users with roles (admin, snc_internal), and if the ACL condition (sys_created_onONToday@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()^EQ) evaluates to true.</description><name>x_30570_covid19_state.*</name><operation display_value="report_on">f6861c32c0a8016400647951e901525d</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>toshit.bhatt</sys_created_by><sys_created_on>2020-05-17 12:29:48</sys_created_on><sys_id>162e670edb3c1c10cfe3c4ab0b961905</sys_id><sys_mod_count>4</sys_mod_count><sys_name>x_30570_covid19_state.*</sys_name><sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package><sys_policy/><sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope><sys_update_name>sys_security_acl_162e670edb3c1c10cfe3c4ab0b961905</sys_update_name><sys_updated_by>toshit.bhatt</sys_updated_by><sys_updated_on>2020-05-17 12:40:30</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1024273021</payload_hash>
+        <record_name>x_30570_covid19_state.*</record_name>
+        <reverted_from/>
+        <source>386286d6db245010cfe3c4ab0b9619ab</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-17 12:40:30</sys_created_on>
+        <sys_id>ccb1bbcedb3c1c10cfe3c4ab0b96194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17222a667d90000001</sys_recorded_at>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-17 12:40:30</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>c4b1bbce043c1c1017ab03376a21da4f</update_guid>
+        <update_guid_history>c4b1bbce043c1c1017ab03376a21da4f:-1024273021,d331bf8e6c3c1c10b8c9085fdb722021:-343606148,c450bf4e163c1c104c0b511a29523d28:543449706,82df238e653c1c101298a598bd0a8378:725055196,6f3fa74ede3c1c10fce04df16bb6bd24:1530614485</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-17 12:53:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>40fda457715f4b54b758e2ba18d1fea4</sys_id>
+        <sys_metadata>162e670edb3c1c10cfe3c4ab0b961905</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_30570_covid19_state.*</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_parent display_value="x_30570_covid19_state">d6677a40db605410cfe3c4ab0b9619c5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_scope_delete display_value="">2c6bc6165bb549eca5622a9bc0cb1544</sys_scope_delete>
+        <sys_update_name>sys_security_acl_162e670edb3c1c10cfe3c4ab0b961905</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_162e670edb3c1c10cfe3c4ab0b961905">ccb1bbcedb3c1c10cfe3c4ab0b96194f</sys_update_version>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-17 12:53:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
