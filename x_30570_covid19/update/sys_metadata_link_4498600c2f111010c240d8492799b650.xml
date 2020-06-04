@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>481a14f4db201c10cfe3c4ab0b9619ac</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_map_source">
+    <sys_report_map_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aggregate_field>location.state</aggregate_field>
+        <join_by_column>hc-key</join_by_column>
+        <name>Covid19 Cases (level 2)</name>
+        <parent display_value="Covid19 Cases (level 1)">8c1a14f4db201c10cfe3c4ab0b9619ab</parent>
+        <report_map_source_mapping display_value="Region and state mappings">8e963db2d7a30200bd4a4ebfae6103b7</report_map_source_mapping>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-04-30 13:30:18</sys_created_on>
+        <sys_id>481a14f4db201c10cfe3c4ab0b9619ac</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-04 14:33:19</sys_updated_on>
+        <table>x_30570_covid19_state_district_wise</table>
+        <type display_value="Level 2">a6edd872d7101200bd4a4ebfae610359</type>
+        <type_mapping>mapping</type_mapping>
+    </sys_report_map_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=481a14f4db201c10cfe3c4ab0b9619ac"/>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-06-04 13:25:19</sys_created_on>
+        <sys_id>4498600c2f111010c240d8492799b650</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Covid19 Cases (level 2)</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>sys_metadata_link_4498600c2f111010c240d8492799b650</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-06-04 13:25:19</sys_updated_on>
+        <tablename>sys_report_map_source</tablename>
+    </sys_metadata_link>
+</record_update>

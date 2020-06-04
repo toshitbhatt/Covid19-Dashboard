@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>0e2645cddb6c1c10cfe3c4ab0b961972</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_map_source_mappings">
+    <sys_report_map_source_mappings action="INSERT_OR_UPDATE">
+        <key>UP</key>
+        <map display_value="India">04197a82d7301200bd4a4ebfae6103bd</map>
+        <report_map_source_mapping display_value="Region and state mappings">8e963db2d7a30200bd4a4ebfae6103b7</report_map_source_mapping>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-01 11:21:26</sys_created_on>
+        <sys_id>0e2645cddb6c1c10cfe3c4ab0b961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-01 11:21:26</sys_updated_on>
+        <value>in-up</value>
+    </sys_report_map_source_mappings>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-06-04 13:50:49</sys_created_on>
+        <sys_id>656e28c02f511010c240d8492799b679</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>in-up</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>sys_metadata_link_656e28c02f511010c240d8492799b679</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-06-04 13:50:49</sys_updated_on>
+        <tablename>sys_report_map_source_mappings</tablename>
+    </sys_metadata_link>
+</record_update>
