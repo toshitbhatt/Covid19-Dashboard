@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
+    <gsw_change_log action="INSERT_OR_UPDATE">
+        <change_date>2020-04-27 08:25:15</change_date>
+        <changed_by display_value="Toshit Bhatt">3a75a99bdb210010cfe3c4ab0b9619c0</changed_by>
+        <content display_value="Review Indicators">2f21a8840b2022001e684ac3b6673a2b</content>
+        <related_change_log_entry/>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-04-27 08:25:15</sys_created_on>
+        <sys_id>0a777b27db1cd010cfe3c4ab0b961990</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2020-04-27 08:25:15</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>gsw_change_log_0a777b27db1cd010cfe3c4ab0b961990</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-04-27 08:25:15</sys_updated_on>
+        <type>4</type>
+    </gsw_change_log>
+</record_update>

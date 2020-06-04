@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-04-26 16:40:13</sys_created_on>
+        <sys_id>762f94e7db90d010cfe3c4ab0b961926</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_30570_covid19_date_wise_cases.admin</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_security_acl display_value="x_30570_covid19_date_wise_cases">f62f94e7db90d010cfe3c4ab0b961920</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_762f94e7db90d010cfe3c4ab0b961926</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-04 14:09:09</sys_updated_on>
+        <sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

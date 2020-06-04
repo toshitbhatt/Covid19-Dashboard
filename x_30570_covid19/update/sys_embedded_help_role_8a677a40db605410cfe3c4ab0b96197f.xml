@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_30570_covid19.state_user" name="x_30570_covid19.state_user">4a67fe48db205410cfe3c4ab0b9619ee</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-04-28 17:02:19</sys_created_on>
+        <sys_id>8a677a40db605410cfe3c4ab0b96197f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4a67fe48db205410cfe3c4ab0b9619ee</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8a677a40db605410cfe3c4ab0b96197f</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-04-28 17:02:19</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
