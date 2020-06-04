@@ -2,12 +2,12 @@
     <gsw_status_of_content action="INSERT_OR_UPDATE">
         <best_practice_allowed_ever>0</best_practice_allowed_ever>
         <checksum/>
-        <content display_value="Application Category Group">19d974859341220028517a75e57ffbb6</content>
+        <content display_value="">19d974859341220028517a75e57ffbb6</content>
         <effective_weight>1</effective_weight>
         <more_info_visited>false</more_info_visited>
         <previous_status>0</previous_status>
         <progress>0</progress>
-        <related_log_entry display_value="2020-05-25 11:38:19">172078b4dbc1d010cfe3c4ab0b96191e</related_log_entry>
+        <related_log_entry display_value="2020-05-25 04:38:19">172078b4dbc1d010cfe3c4ab0b96191e</related_log_entry>
         <status>1</status>
         <sys_class_name>gsw_status_of_content</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>

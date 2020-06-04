@@ -118,7 +118,7 @@ State Code is empty</description><direction>3</direction><display>false</display
         <update_guid_history>4bcbeec9d7e05c10870be907a5204288:-1522609100,fecbeec95de05c1040e297774d0a6b7c:-220573964,b2cbaac9b8e05c1039ea7151c1f3f8c5:-1071134571,3acbaac9ffe05c10b23eb6a6ed5ec7c3:-43064417</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Final Date Wise Indicator Total Recovered 1">a98caa0ddbe05c10cfe3c4ab0b961935</sys_audit_delete>
+        <sys_audit_delete display_value="">a98caa0ddbe05c10cfe3c4ab0b961935</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-05-01 18:48:42</sys_created_on>

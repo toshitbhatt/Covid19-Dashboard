@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>6d1f358adb281010cfe3c4ab0b961947</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_30570_covid19_covid_test_performed">
+    <x_30570_covid19_covid_test_performed action="INSERT_OR_UPDATE">
+        <last_updated>2020-03-27 03:30:00</last_updated>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-04 18:04:06</sys_created_on>
+        <sys_id>6d1f358adb281010cfe3c4ab0b961947</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-05-04 18:04:06</sys_updated_on>
+        <total_samples_tested>27688</total_samples_tested>
+    </x_30570_covid19_covid_test_performed>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-06-04 13:16:54</sys_created_on>
+        <sys_id>f0a620c82f111010c240d8492799b63b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2020-05-04 11:04:06</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>sys_metadata_link_f0a620c82f111010c240d8492799b63b</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-06-04 13:16:54</sys_updated_on>
+        <tablename>x_30570_covid19_covid_test_performed</tablename>
+    </sys_metadata_link>
+</record_update>

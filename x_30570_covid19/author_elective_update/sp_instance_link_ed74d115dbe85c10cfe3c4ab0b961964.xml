@@ -72,7 +72,7 @@
         <update_guid_history>2574d115b7e85c1094d567280d561666:801707289</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="My Reports">55e49915dbe85c10cfe3c4ab0b9619a7</sys_audit_delete>
+        <sys_audit_delete display_value="">55e49915dbe85c10cfe3c4ab0b9619a7</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-05-02 07:04:19</sys_created_on>

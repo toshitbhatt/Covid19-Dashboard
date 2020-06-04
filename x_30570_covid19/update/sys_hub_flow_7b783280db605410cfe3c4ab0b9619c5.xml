@@ -12,7 +12,7 @@
         <description/>
         <internal_name>get_covid19_data</internal_name>
         <label_cache>[{"name":"d074d908-c791-48f9-85e3-fc60a6f18d48.outputmessage","label":"1➛outputMessage","reference_display":"outputMessage","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"6432a863-9d56-4fff-a4b3-e8195cf0108f"}},{"name":"29945305-3b65-4074-a9ed-22f023db7c5b.outputmessage","label":"1➛outputMessage","reference_display":"outputMessage","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"6432a863-9d56-4fff-a4b3-e8195cf0108f"}},{"name":"c71ec8d1-ea46-44a9-87df-36aa755a0ca6.errormessage","label":"1➛errorMessage","reference_display":"errorMessage","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"936d5398-8768-4bef-be08-ca933a8991bd"}},{"name":"c71ec8d1-ea46-44a9-87df-36aa755a0ca6.responsestatuscode","label":"1➛responseStatusCode","reference_display":"responseStatusCode","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"639a2a65-9153-409c-9b34-00f9d5628b3c"}},{"name":"c71ec8d1-ea46-44a9-87df-36aa755a0ca6.variable","label":"1➛responseBody","reference_display":"responseBody","type":"json","base_type":"json","attributes":{"uiTypeLabel":"JSON","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"json","uiUniqueId":"6432a863-9d56-4fff-a4b3-e8195cf0108f"}},{"name":"fc3da251-dd4f-4a6a-829b-40154d260d9f.errormessage","label":"1➛errorMessage","reference_display":"errorMessage","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"936d5398-8768-4bef-be08-ca933a8991bd"}},{"name":"fc3da251-dd4f-4a6a-829b-40154d260d9f.responsestatuscode","label":"1➛responseStatusCode","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"639a2a65-9153-409c-9b34-00f9d5628b3c"}},{"name":"fc3da251-dd4f-4a6a-829b-40154d260d9f.variable","label":"1➛responseBody","reference_display":"responseBody","type":"json","base_type":"json","attributes":{"uiTypeLabel":"JSON","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"json","uiUniqueId":"6432a863-9d56-4fff-a4b3-e8195cf0108f"}},{"name":"cb8e26be-5caa-4e8a-b803-89b74d646292.outputmessage","label":"2➛outputMessage","reference_display":"outputMessage","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"2a2ab7c7-6a73-4d6a-a719-452538137139"}}]</label_cache>
-        <latest_snapshot>847933b5db601010cfe3c4ab0b96193c</latest_snapshot>
+        <latest_snapshot>2f36a4882f111010c240d8492799b65b</latest_snapshot>
         <master_snapshot>8ad4a398dbe85810cfe3c4ab0b961908</master_snapshot>
         <name>Get Covid19 Data</name>
         <natlang/>
@@ -70,7 +70,7 @@
         <conditional>false</conditional>
         <entered_time/>
         <name>Trigger:03e37499db685c10cfe3c4ab0b961915</name>
-        <run_as display_value="Toshit Bhatt">3a75a99bdb210010cfe3c4ab0b9619c0</run_as>
+        <run_as display_value="Toshit Bhatt">f181cc0b2f4d1010c240d8492799b64e</run_as>
         <run_as_tz/>
         <run_dayofmonth>1</run_dayofmonth>
         <run_dayofweek/>
@@ -110,10 +110,10 @@
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-04-29 14:57:59</sys_created_on>
         <sys_id>a684a790dbe85810cfe3c4ab0b96194b</sys_id>
-        <sys_mod_count>64</sys_mod_count>
+        <sys_mod_count>66</sys_mod_count>
         <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
         <sys_updated_by>toshit.bhatt</sys_updated_by>
-        <sys_updated_on>2020-05-04 08:20:11</sys_updated_on>
+        <sys_updated_on>2020-06-04 13:15:11</sys_updated_on>
         <ui_id>d074d908-c791-48f9-85e3-fc60a6f18d48</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=a684a790dbe85810cfe3c4ab0b96194b"/>
@@ -131,10 +131,10 @@
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-05-01 14:47:45</sys_created_on>
         <sys_id>c8657581db205c10cfe3c4ab0b961920</sys_id>
-        <sys_mod_count>52</sys_mod_count>
+        <sys_mod_count>54</sys_mod_count>
         <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
         <sys_updated_by>toshit.bhatt</sys_updated_by>
-        <sys_updated_on>2020-05-04 08:20:12</sys_updated_on>
+        <sys_updated_on>2020-06-04 13:15:11</sys_updated_on>
         <ui_id>cb8e26be-5caa-4e8a-b803-89b74d646292</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c8657581db205c10cfe3c4ab0b961920"/>
@@ -199,10 +199,10 @@
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-04-29 14:57:59</sys_created_on>
         <sys_id>a684a790dbe85810cfe3c4ab0b96194b</sys_id>
-        <sys_mod_count>64</sys_mod_count>
+        <sys_mod_count>66</sys_mod_count>
         <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
         <sys_updated_by>toshit.bhatt</sys_updated_by>
-        <sys_updated_on>2020-05-04 08:20:11</sys_updated_on>
+        <sys_updated_on>2020-06-04 13:15:11</sys_updated_on>
         <ui_id>d074d908-c791-48f9-85e3-fc60a6f18d48</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=a684a790dbe85810cfe3c4ab0b96194b"/>
@@ -220,10 +220,10 @@
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-05-01 14:47:45</sys_created_on>
         <sys_id>c8657581db205c10cfe3c4ab0b961920</sys_id>
-        <sys_mod_count>52</sys_mod_count>
+        <sys_mod_count>54</sys_mod_count>
         <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
         <sys_updated_by>toshit.bhatt</sys_updated_by>
-        <sys_updated_on>2020-05-04 08:20:12</sys_updated_on>
+        <sys_updated_on>2020-06-04 13:15:11</sys_updated_on>
         <ui_id>cb8e26be-5caa-4e8a-b803-89b74d646292</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c8657581db205c10cfe3c4ab0b961920"/>
@@ -266,7 +266,7 @@
         <binding_strategy>com.snc.process_flow.engine.binding.RunAlways</binding_strategy>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"906a011ddba85c10cfe3c4ab0b9619c7","name":"plan"}}</plan>
         <plan_id>7b783280db605410cfe3c4ab0b9619c5</plan_id>
-        <snapshot>847933b5db601010cfe3c4ab0b96193c</snapshot>
+        <snapshot>2f36a4882f111010c240d8492799b65b</snapshot>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-05-02 06:18:22</sys_created_on>
         <sys_domain>global</sys_domain>

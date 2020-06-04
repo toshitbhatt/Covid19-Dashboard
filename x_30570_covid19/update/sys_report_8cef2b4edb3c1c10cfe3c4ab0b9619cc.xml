@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_report">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report">
     <sys_report action="INSERT_OR_UPDATE">
         <additional_groupby/>
         <aggregate>COUNT</aggregate>
@@ -29,7 +29,7 @@
         <column/>
         <compute_percent>aggregate</compute_percent>
         <content/>
-        <created_by_user display_value="Toshit Bhatt">3a75a99bdb210010cfe3c4ab0b9619c0</created_by_user>
+        <created_by_user display_value="Toshit Bhatt">f181cc0b2f4d1010c240d8492799b64e</created_by_user>
         <custom_chart_size>false</custom_chart_size>
         <custom_chart_title_position>false</custom_chart_title_position>
         <custom_config>{"transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}]}</custom_config>
@@ -101,8 +101,6 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-05-17 12:32:34</sys_created_on>
-        <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>8cef2b4edb3c1c10cfe3c4ab0b9619cc</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>State</sys_name>

@@ -59,7 +59,6 @@ $text-muted:#666666;
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
-        <encryption_context/>
         <file_name>icon</file_name>
         <hash>c68da8047bec28b4b662afa089da3b4380509bb0a6f1886330fb1ef72cafd89b</hash>
         <image_height>140</image_height>
@@ -69,8 +68,6 @@ $text-muted:#666666;
         <state>available</state>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-05-04 14:17:09</sys_created_on>
-        <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>c92b418edb641010cfe3c4ab0b96199c</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>toshit.bhatt</sys_updated_by>
@@ -101,7 +98,6 @@ $text-muted:#666666;
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/jpeg</content_type>
-        <encryption_context/>
         <file_name>logo</file_name>
         <hash>812a52b7a6072962255a30bd7c4d38068a2cdae4b848dc8c80d8437e152667eb</hash>
         <image_height>226</image_height>
@@ -111,8 +107,6 @@ $text-muted:#666666;
         <state>available</state>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-05-02 07:50:57</sys_created_on>
-        <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>d09f9dd9dbe85c10cfe3c4ab0b96194a</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>toshit.bhatt</sys_updated_by>

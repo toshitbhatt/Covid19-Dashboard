@@ -42,7 +42,7 @@
         <update_guid_history>33517f8ec43c1c10009a3d5d9c6d662c:-1280919380</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_30570_covid19_state.*.admin">e0943f42db7c1c10cfe3c4ab0b961936</sys_audit_delete>
+        <sys_audit_delete display_value="">e0943f42db7c1c10cfe3c4ab0b961936</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-05-17 12:53:05</sys_created_on>

@@ -48,7 +48,7 @@
         <update_guid_history>4fcbeec9b5e05c103a78c34e6a22f789:1145001335</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="temporary job for collecting Final Date Wise Indicator Total Recovered 1 - ">2d8caa0ddbe05c10cfe3c4ab0b961912</sys_audit_delete>
+        <sys_audit_delete display_value="">2d8caa0ddbe05c10cfe3c4ab0b961912</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-05-01 18:48:41</sys_created_on>

@@ -52,7 +52,7 @@
         <update_guid_history>7a2f54e75590d01046d4914f3196d8e3:-741390401</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Date Wise Cases">0daa43dcdba0d410cfe3c4ab0b9619a8</sys_audit_delete>
+        <sys_audit_delete display_value="">0daa43dcdba0d410cfe3c4ab0b9619a8</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-04-29 13:04:50</sys_created_on>

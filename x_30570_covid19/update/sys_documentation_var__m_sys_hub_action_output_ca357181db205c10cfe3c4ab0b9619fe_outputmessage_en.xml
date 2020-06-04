@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="outputmessage" label="outputMessage" language="en" table="var__m_sys_hub_action_output_ca357181db205c10cfe3c4ab0b9619fe">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>outputmessage</element>
+            <help/>
+            <hint/>
+            <label>outputMessage</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_ca357181db205c10cfe3c4ab0b9619fe</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>toshit.bhatt</sys_created_by>
+            <sys_created_on>2020-05-01 14:47:05</sys_created_on>
+            <sys_id>da35b181db205c10cfe3c4ab0b961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>outputMessage</sys_name>
+            <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_ca357181db205c10cfe3c4ab0b9619fe_outputmessage_en</sys_update_name>
+            <sys_updated_by>toshit.bhatt</sys_updated_by>
+            <sys_updated_on>2020-05-01 14:47:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

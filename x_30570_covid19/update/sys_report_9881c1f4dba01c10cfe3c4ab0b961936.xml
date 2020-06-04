@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_report">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report">
     <sys_report action="INSERT_OR_UPDATE">
         <additional_groupby/>
         <aggregate>SUM</aggregate>
@@ -29,7 +29,7 @@
         <column/>
         <compute_percent>aggregate</compute_percent>
         <content/>
-        <created_by_user display_value="Toshit Bhatt">3a75a99bdb210010cfe3c4ab0b9619c0</created_by_user>
+        <created_by_user display_value="Toshit Bhatt">f181cc0b2f4d1010c240d8492799b64e</created_by_user>
         <custom_chart_size>false</custom_chart_size>
         <custom_chart_title_position>false</custom_chart_title_position>
         <custom_config>{"transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}]}</custom_config>
@@ -67,7 +67,7 @@
         <location_field/>
         <lower_limit/>
         <map display_value="India">04197a82d7301200bd4a4ebfae6103bd</map>
-        <map_source display_value="Covid19 Cases">54d950f4db201c10cfe3c4ab0b961991</map_source>
+        <map_source display_value="">54d950f4db201c10cfe3c4ab0b961991</map_source>
         <orderby_list/>
         <other_threshold>-2</other_threshold>
         <others>true</others>
@@ -102,8 +102,6 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-04-30 16:22:39</sys_created_on>
-        <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>9881c1f4dba01c10cfe3c4ab0b961936</sys_id>
         <sys_mod_count>12</sys_mod_count>
         <sys_name>State Wise Confirmed Cases</sys_name>

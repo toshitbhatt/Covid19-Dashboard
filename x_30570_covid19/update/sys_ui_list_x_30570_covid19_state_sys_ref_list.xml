@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>state_name</element>
-            <list_id display_value="x_30570_covid19_state" element="NULL" name="x_30570_covid19_state" parent="NULL" relationship="NULL" sys_domain="global" view="d01f3171db210010cfe3c4ab0b9619c1">e8b21714dbecd410cfe3c4ab0b9619db</list_id>
+            <list_id display_value="x_30570_covid19_state" element="NULL" name="x_30570_covid19_state" parent="NULL" relationship="NULL" sys_domain="global" view="d71211722f011010c240d8492799b66c">e8b21714dbecd410cfe3c4ab0b9619db</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>state_code</element>
-            <list_id display_value="x_30570_covid19_state" element="NULL" name="x_30570_covid19_state" parent="NULL" relationship="NULL" sys_domain="global" view="d01f3171db210010cfe3c4ab0b9619c1">e8b21714dbecd410cfe3c4ab0b9619db</list_id>
+            <list_id display_value="x_30570_covid19_state" element="NULL" name="x_30570_covid19_state" parent="NULL" relationship="NULL" sys_domain="global" view="d71211722f011010c240d8492799b66c">e8b21714dbecd410cfe3c4ab0b9619db</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -55,7 +55,7 @@
             <sys_updated_by>toshit.bhatt</sys_updated_by>
             <sys_updated_on>2020-04-29 13:40:02</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">d01f3171db210010cfe3c4ab0b9619c1</view>
+            <view display_value="Reference List" name="sys_ref_list">d71211722f011010c240d8492799b66c</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

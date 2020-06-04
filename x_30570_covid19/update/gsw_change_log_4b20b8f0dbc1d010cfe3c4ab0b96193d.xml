@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
     <gsw_change_log action="INSERT_OR_UPDATE">
         <change_date>2020-05-25 11:38:18</change_date>
-        <changed_by display_value="Toshit Bhatt">3a75a99bdb210010cfe3c4ab0b9619c0</changed_by>
-        <content display_value="JOB: Load Application Indicators and Compute Application Scores">bbf4357ac73a33000cc2620927c2602a</content>
+        <changed_by display_value="Toshit Bhatt">f181cc0b2f4d1010c240d8492799b64e</changed_by>
+        <content display_value="">bbf4357ac73a33000cc2620927c2602a</content>
         <related_change_log_entry/>
         <related_task_entry/>
         <sys_class_name>gsw_change_log</sys_class_name>

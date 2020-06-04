@@ -2,12 +2,12 @@
     <gsw_status_of_content action="INSERT_OR_UPDATE">
         <best_practice_allowed_ever>0</best_practice_allowed_ever>
         <checksum/>
-        <content display_value="Application Cost Model">4fc92019fd452200964f664ebbfc2697</content>
+        <content display_value="">4fc92019fd452200964f664ebbfc2697</content>
         <effective_weight>1</effective_weight>
         <more_info_visited>false</more_info_visited>
         <previous_status>0</previous_status>
         <progress>0</progress>
-        <related_log_entry display_value="2020-05-25 11:30:44">407e6074dbc1d010cfe3c4ab0b961991</related_log_entry>
+        <related_log_entry display_value="2020-05-25 04:30:44">407e6074dbc1d010cfe3c4ab0b961991</related_log_entry>
         <status>0</status>
         <sys_class_name>gsw_status_of_content</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>

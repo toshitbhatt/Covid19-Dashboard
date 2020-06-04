@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>state_code</element>
-            <list_id display_value="x_30570_covid19_state" element="NULL" name="x_30570_covid19_state" parent="NULL" relationship="NULL" sys_domain="global" view="4cef638edb3c1c10cfe3c4ab0b961934">0cef638edb3c1c10cfe3c4ab0b961935</list_id>
+            <list_id display_value="x_30570_covid19_state" element="NULL" name="x_30570_covid19_state" parent="NULL" relationship="NULL" sys_domain="global" view="414368842f111010c240d8492799b644">0cef638edb3c1c10cfe3c4ab0b961935</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>state_name</element>
-            <list_id display_value="x_30570_covid19_state" element="NULL" name="x_30570_covid19_state" parent="NULL" relationship="NULL" sys_domain="global" view="4cef638edb3c1c10cfe3c4ab0b961934">0cef638edb3c1c10cfe3c4ab0b961935</list_id>
+            <list_id display_value="x_30570_covid19_state" element="NULL" name="x_30570_covid19_state" parent="NULL" relationship="NULL" sys_domain="global" view="414368842f111010c240d8492799b644">0cef638edb3c1c10cfe3c4ab0b961935</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -55,7 +55,7 @@
             <sys_updated_by>toshit.bhatt</sys_updated_by>
             <sys_updated_on>2020-05-17 12:32:35</sys_updated_on>
             <sys_user/>
-            <view display_value="Rpt8cef2b4edb3c1c10cfe3c4ab0b9619cc" name="RPT8cef2b4edb3c1c10cfe3c4ab0b9619cc">4cef638edb3c1c10cfe3c4ab0b961934</view>
+            <view display_value="Rpt8cef2b4edb3c1c10cfe3c4ab0b9619cc" name="RPT8cef2b4edb3c1c10cfe3c4ab0b9619cc">414368842f111010c240d8492799b644</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>
