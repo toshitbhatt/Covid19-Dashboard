@@ -227,41 +227,7 @@
         <ui_id>cb8e26be-5caa-4e8a-b803-89b74d646292</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c8657581db205c10cfe3c4ab0b961920"/>
-    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=7b783280db605410cfe3c4ab0b9619c5^sys_idNOT IN162cd281dba05c10cfe3c4ab0b96190f,6e922605dbe05c10cfe3c4ab0b96190f,83e37499db685c10cfe3c4ab0b961916,8ed4a398dbe85810cfe3c4ab0b9619f3,906a011ddba85c10cfe3c4ab0b9619c7"/>
-    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
-        <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
-        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"162cd281dba05c10cfe3c4ab0b96190f","name":"plan"}}</plan>
-        <plan_id>7b783280db605410cfe3c4ab0b9619c5</plan_id>
-        <snapshot>9b4c9681dba05c10cfe3c4ab0b961981</snapshot>
-        <sys_created_by>toshit.bhatt</sys_created_by>
-        <sys_created_on>2020-05-01 17:37:12</sys_created_on>
-        <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
-        <sys_id>162cd281dba05c10cfe3c4ab0b96190f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_overrides/>
-        <sys_scope/>
-        <sys_updated_by>toshit.bhatt</sys_updated_by>
-        <sys_updated_on>2020-05-01 17:37:12</sys_updated_on>
-        <trigger/>
-    </sys_flow_trigger_plan>
-    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
-        <binding_strategy>com.snc.process_flow.engine.binding.RunAlways</binding_strategy>
-        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"6e922605dbe05c10cfe3c4ab0b96190f","name":"plan"}}</plan>
-        <plan_id>7b783280db605410cfe3c4ab0b9619c5</plan_id>
-        <snapshot>b8a22605dbe05c10cfe3c4ab0b9619b1</snapshot>
-        <sys_created_by>toshit.bhatt</sys_created_by>
-        <sys_created_on>2020-05-01 18:05:21</sys_created_on>
-        <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
-        <sys_id>6e922605dbe05c10cfe3c4ab0b96190f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_overrides/>
-        <sys_scope/>
-        <sys_updated_by>toshit.bhatt</sys_updated_by>
-        <sys_updated_on>2020-05-01 18:05:21</sys_updated_on>
-        <trigger/>
-    </sys_flow_trigger_plan>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=7b783280db605410cfe3c4ab0b9619c5^sys_idNOT IN83e37499db685c10cfe3c4ab0b961916,8ed4a398dbe85810cfe3c4ab0b9619f3,906a011ddba85c10cfe3c4ab0b9619c7"/>
     <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
         <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"83e37499db685c10cfe3c4ab0b961916","name":"plan"}}</plan>
