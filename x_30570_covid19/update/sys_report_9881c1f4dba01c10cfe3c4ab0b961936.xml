@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_report">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report">
     <sys_report action="INSERT_OR_UPDATE">
         <additional_groupby/>
         <aggregate>SUM</aggregate>
@@ -29,7 +29,7 @@
         <column/>
         <compute_percent>aggregate</compute_percent>
         <content/>
-        <created_by_user display_value="Toshit Bhatt">3a75a99bdb210010cfe3c4ab0b9619c0</created_by_user>
+        <created_by_user display_value="Toshit Bhatt">f181cc0b2f4d1010c240d8492799b64e</created_by_user>
         <custom_chart_size>false</custom_chart_size>
         <custom_chart_title_position>false</custom_chart_title_position>
         <custom_config>{"transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}]}</custom_config>
@@ -75,7 +75,7 @@
         <pivot_expanded>true</pivot_expanded>
         <report_drilldown/>
         <report_source/>
-        <roles>snc_external,snc_internal</roles>
+        <roles/>
         <row/>
         <sc_groupby_item_id/>
         <sc_groupby_variable_id/>
@@ -102,17 +102,15 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-04-30 16:22:39</sys_created_on>
-        <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>9881c1f4dba01c10cfe3c4ab0b961936</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name>State Wise Confirmed Cases</sys_name>
         <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
         <sys_update_name>sys_report_9881c1f4dba01c10cfe3c4ab0b961936</sys_update_name>
         <sys_updated_by>toshit.bhatt</sys_updated_by>
-        <sys_updated_on>2020-05-05 09:47:01</sys_updated_on>
+        <sys_updated_on>2020-06-04 14:05:03</sys_updated_on>
         <table>x_30570_covid19_state_district_wise</table>
         <title>State Wise Confirmed Cases</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>

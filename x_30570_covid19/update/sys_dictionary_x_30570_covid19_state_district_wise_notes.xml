@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-04-28 17:00:28</sys_created_on>
-        <sys_id>7dd6368cdb205410cfe3c4ab0b961945</sys_id>
+        <sys_id>00232c442f111010c240d8492799b6ec</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Notes</sys_name>
         <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
         <sys_update_name>sys_dictionary_x_30570_covid19_state_district_wise_notes</sys_update_name>
         <sys_updated_by>toshit.bhatt</sys_updated_by>
-        <sys_updated_on>2020-04-28 17:00:28</sys_updated_on>
+        <sys_updated_on>2020-06-04 13:01:40</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

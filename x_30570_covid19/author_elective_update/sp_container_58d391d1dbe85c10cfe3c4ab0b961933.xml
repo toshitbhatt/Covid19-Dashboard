@@ -51,7 +51,7 @@
         <update_guid_history>1cd391d1c4e85c10f8fa7d3837f73e35:1007273906</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Home Page - Container 1">8fa49515dbe85c10cfe3c4ab0b9619de</sys_audit_delete>
+        <sys_audit_delete display_value="">8fa49515dbe85c10cfe3c4ab0b9619de</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-05-02 07:03:21</sys_created_on>

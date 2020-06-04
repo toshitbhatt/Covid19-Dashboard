@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="State District Wise" max_length="40" name="x_30570_covid19_state_district_wise" sizeclass="16752" type="collection">
+    <element label="State District Wise" max_length="40" name="x_30570_covid19_state_district_wise" type="collection">
         <element label="Active Cases" max_length="40" name="active_cases" type="integer"/>
         <element label="Confirmed Cases" max_length="40" name="confirmed_cases" type="integer"/>
         <element label="Deceased" max_length="40" name="deceased" type="integer"/>

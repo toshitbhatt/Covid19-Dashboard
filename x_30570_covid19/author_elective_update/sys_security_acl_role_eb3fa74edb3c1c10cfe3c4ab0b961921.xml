@@ -30,19 +30,19 @@
         <source>c5509032db330010cfe3c4ab0b9619d2</source>
         <source_table>sys_upgrade_history</source_table>
         <state>previous</state>
-        <sys_created_by/>
+        <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-03-30 11:08:33</sys_created_on>
         <sys_id>1414bbcedb3c1c10cfe3c4ab0b9619e8</sys_id>
-        <sys_mod_count/>
+        <sys_mod_count>0</sys_mod_count>
         <sys_recorded_at>1712b20f7680000000</sys_recorded_at>
-        <sys_updated_by/>
-        <sys_updated_on/>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-06-04 13:02:17</sys_updated_on>
         <type>Access Roles</type>
         <update_guid>d014bbce873c1c100ece8cf2c44a82e8</update_guid>
         <update_guid_history>d014bbce873c1c100ece8cf2c44a82e8:-540296673</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_30570_covid19_state.snc_internal">9814bbcedb3c1c10cfe3c4ab0b9619ea</sys_audit_delete>
+        <sys_audit_delete display_value="">9814bbcedb3c1c10cfe3c4ab0b9619ea</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-05-17 12:50:54</sys_created_on>

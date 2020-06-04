@@ -13,7 +13,7 @@
         <ih_action>true</ih_action>
         <internal_name>call_data_timeseries_api</internal_name>
         <label_cache>[{"name":"{{step[3af603ba-d53b-4baa-a68d-7a4e8cd157a0].response_body}}","label":"step➛REST step➛Response Body","type":"step","ref":""},{"name":"{{step[3af603ba-d53b-4baa-a68d-7a4e8cd157a0].status_code}}","label":"step➛REST step➛Status Code","type":"step","ref":""},{"name":"{{step[3af603ba-d53b-4baa-a68d-7a4e8cd157a0].error_message}}","label":"step➛REST step➛Error Message","type":"step","ref":""},{"name":"{{step[b3e17046-ba34-4e59-91a8-ea22cda1b194].variable}}","label":"step➛Script step➛variable","type":"step","ref":""},{"name":"{{step[b3e17046-ba34-4e59-91a8-ea22cda1b194].info}}","label":"step➛Script step➛info","type":"step","ref":""}]</label_cache>
-        <latest_snapshot>35357181db205c10cfe3c4ab0b9619b1</latest_snapshot>
+        <latest_snapshot>5736a4882f111010c240d8492799b608</latest_snapshot>
         <master_snapshot>ca357181db205c10cfe3c4ab0b9619fe</master_snapshot>
         <name>Call Data Timeseries API</name>
         <natlang/>
@@ -1343,11 +1343,11 @@
         <sys_created_on>2020-05-01 14:41:30</sys_created_on>
         <sys_id>9cf3fd01db205c10cfe3c4ab0b961940</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>outputMessage</sys_name>
         <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_49cf5981dbec1c10cfe3c4ab0b9619b7_outputmessage_en</sys_update_name>
         <sys_updated_by>toshit.bhatt</sys_updated_by>
         <sys_updated_on>2020-05-01 14:41:30</sys_updated_on>
         <url/>
@@ -2710,11 +2710,11 @@
         <sys_created_on>2020-05-01 14:47:05</sys_created_on>
         <sys_id>da35b181db205c10cfe3c4ab0b961947</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>outputMessage</sys_name>
         <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_ca357181db205c10cfe3c4ab0b9619fe_outputmessage_en</sys_update_name>
         <sys_updated_by>toshit.bhatt</sys_updated_by>
         <sys_updated_on>2020-05-01 14:47:05</sys_updated_on>
         <url/>

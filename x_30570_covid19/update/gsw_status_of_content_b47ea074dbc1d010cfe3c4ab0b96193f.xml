@@ -2,12 +2,12 @@
     <gsw_status_of_content action="INSERT_OR_UPDATE">
         <best_practice_allowed_ever>0</best_practice_allowed_ever>
         <checksum/>
-        <content display_value="Step 3">aaa384f19301220028517a75e57ffba1</content>
+        <content display_value="">aaa384f19301220028517a75e57ffba1</content>
         <effective_weight>1</effective_weight>
         <more_info_visited>false</more_info_visited>
         <previous_status>0</previous_status>
         <progress>0</progress>
-        <related_log_entry display_value="2020-05-25 11:30:46">7c7ea074dbc1d010cfe3c4ab0b96193e</related_log_entry>
+        <related_log_entry display_value="2020-05-25 04:30:46">7c7ea074dbc1d010cfe3c4ab0b96193e</related_log_entry>
         <status>0</status>
         <sys_class_name>gsw_status_of_content</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>

@@ -46,7 +46,7 @@
         <update_guid_history>3be4d915d2e85c10d8935aaa1a882b1e:1945488005,ad74d115cee85c10261091d729a05067:635572419</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="2">45f49915dbe85c10cfe3c4ab0b9619e8</sys_audit_delete>
+        <sys_audit_delete display_value="">45f49915dbe85c10cfe3c4ab0b9619e8</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-05-02 07:04:35</sys_created_on>

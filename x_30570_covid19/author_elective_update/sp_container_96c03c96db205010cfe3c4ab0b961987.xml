@@ -51,7 +51,7 @@
         <update_guid_history>b2d038d638205010db21912f0f3de684:-1555989186,5ac03c96e12050103f7a835234caf589:1862815709</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Disclaimer - Container 2">ace0b896db205010cfe3c4ab0b961900</sys_audit_delete>
+        <sys_audit_delete display_value="">ace0b896db205010cfe3c4ab0b961900</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-05-05 07:00:55</sys_created_on>

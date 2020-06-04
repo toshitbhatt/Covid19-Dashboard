@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-06-04 12:55:39">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-06-04 14:18:16">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
         <order/>
@@ -38,7 +38,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2020-04-30 15:31:37">4dd5f4bcdb601c10cfe3c4ab0b9619f7</portal_section>
+                        <portal_section display_value="Created 2020-04-30 08:31:37">4dd5f4bcdb601c10cfe3c4ab0b9619f7</portal_section>
                         <sys_created_by>toshit.bhatt</sys_created_by>
                         <sys_created_on>2020-04-30 15:31:38</sys_created_on>
                         <sys_id>09d5f4bcdb601c10cfe3c4ab0b9619fb</sys_id>
@@ -49,7 +49,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>render_time</name>
-                        <portal_section display_value="Created 2020-04-30 15:31:37">4dd5f4bcdb601c10cfe3c4ab0b9619f7</portal_section>
+                        <portal_section display_value="Created 2020-04-30 08:31:37">4dd5f4bcdb601c10cfe3c4ab0b9619f7</portal_section>
                         <sys_created_by>toshit.bhatt</sys_created_by>
                         <sys_created_on>2020-04-30 15:31:38</sys_created_on>
                         <sys_id>45d5f4bcdb601c10cfe3c4ab0b9619fb</sys_id>
@@ -60,7 +60,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 2020-04-30 15:31:37">4dd5f4bcdb601c10cfe3c4ab0b9619f7</portal_section>
+                        <portal_section display_value="Created 2020-04-30 08:31:37">4dd5f4bcdb601c10cfe3c4ab0b9619f7</portal_section>
                         <sys_created_by>toshit.bhatt</sys_created_by>
                         <sys_created_on>2020-04-30 15:31:38</sys_created_on>
                         <sys_id>4dd5f4bcdb601c10cfe3c4ab0b9619fb</sys_id>
@@ -71,7 +71,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2020-04-30 15:31:37">4dd5f4bcdb601c10cfe3c4ab0b9619f7</portal_section>
+                        <portal_section display_value="Created 2020-04-30 08:31:37">4dd5f4bcdb601c10cfe3c4ab0b9619f7</portal_section>
                         <sys_created_by>toshit.bhatt</sys_created_by>
                         <sys_created_on>2020-04-30 15:31:38</sys_created_on>
                         <sys_id>81d5f4bcdb601c10cfe3c4ab0b9619fb</sys_id>
@@ -82,7 +82,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2020-04-30 15:31:37">4dd5f4bcdb601c10cfe3c4ab0b9619f7</portal_section>
+                        <portal_section display_value="Created 2020-04-30 08:31:37">4dd5f4bcdb601c10cfe3c4ab0b9619f7</portal_section>
                         <sys_created_by>toshit.bhatt</sys_created_by>
                         <sys_created_on>2020-04-30 15:31:37</sys_created_on>
                         <sys_id>cdd5f4bcdb601c10cfe3c4ab0b9619f7</sys_id>
@@ -93,7 +93,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2020-04-30 15:31:37">4dd5f4bcdb601c10cfe3c4ab0b9619f7</portal_section>
+                        <portal_section display_value="Created 2020-04-30 08:31:37">4dd5f4bcdb601c10cfe3c4ab0b9619f7</portal_section>
                         <sys_created_by>toshit.bhatt</sys_created_by>
                         <sys_created_on>2020-04-30 15:31:38</sys_created_on>
                         <sys_id>cdd5f4bcdb601c10cfe3c4ab0b9619fa</sys_id>

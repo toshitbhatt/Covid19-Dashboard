@@ -112,7 +112,7 @@ Date on Today</description><direction>3</direction><display>false</display><excl
         <update_guid_history>ec697c7021a01c102da51edde60a6281:-1385646839,14693870fba01c101b183660a99b0c7c:-1118270585,1069387054a01c10125a9eaa0c69db7b:-934172310,d86938702ea01c109eab83b758756579:-1069114518</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Date Wise Indicator - Total Recovered cases">585ab8b0dba01c10cfe3c4ab0b961959</sys_audit_delete>
+        <sys_audit_delete display_value="">585ab8b0dba01c10cfe3c4ab0b961959</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-04-30 15:51:14</sys_created_on>

@@ -144,7 +144,7 @@
         <update_guid_history>e686f0fca4601c10685cc42b091a8346:-747101799,e686f0fc57601c10c3e6f2438c49e73f:1626439546</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Date Wise Indicator for Total Decease cases">03a7b030dba01c10cfe3c4ab0b961979</sys_audit_delete>
+        <sys_audit_delete display_value="">03a7b030dba01c10cfe3c4ab0b961979</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-04-30 15:39:41</sys_created_on>

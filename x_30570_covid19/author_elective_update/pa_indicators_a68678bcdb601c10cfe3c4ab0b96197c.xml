@@ -112,7 +112,7 @@ Date on Today</description><direction>2</direction><display>false</display><excl
         <update_guid_history>3286fcbceb601c10e062d06ed4f5b7f6:-1039433691,2686f0fcbd601c10d9de83f4f79f4b3c:-1878963420,ae86f0fc3b601c10389cf9f0842e153a:-587959162,2e8678bc62601c102cbadea5f7395881:-1763129109</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Date Wise Indicator for Total Decease cases">07a7b030dba01c10cfe3c4ab0b961996</sys_audit_delete>
+        <sys_audit_delete display_value="">07a7b030dba01c10cfe3c4ab0b961996</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-04-30 15:39:41</sys_created_on>

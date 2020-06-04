@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Test">d6f6e51fdb210010cfe3c4ab0b9619f1</application>
+        <application display_value="">d6f6e51fdb210010cfe3c4ab0b9619f1</application>
         <filter/>
         <name>Covid Test Performed</name>
         <order/>

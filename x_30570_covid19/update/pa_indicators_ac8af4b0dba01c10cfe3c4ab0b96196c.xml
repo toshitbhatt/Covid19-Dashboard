@@ -7,7 +7,7 @@
         <collect_records>true</collect_records>
         <conditions/>
         <contributor/>
-        <cube display_value="Date Wise Indiactor Source Test 2">22f26a80db205410cfe3c4ab0b9619c6</cube>
+        <cube display_value="">22f26a80db205410cfe3c4ab0b9619c6</cube>
         <data_source/>
         <default_aggregate/>
         <default_chart_type>line</default_chart_type>
@@ -34,7 +34,7 @@ Date on Today</description>
         <frequency>10</frequency>
         <groups/>
         <has_managed_indicators>false</has_managed_indicators>
-        <id>414</id>
+        <id>124</id>
         <key>false</key>
         <label/>
         <linked_indicator/>

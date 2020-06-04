@@ -52,7 +52,7 @@
         <update_guid_history>4ff6f2402a6054104ce8d59321cabf20:-714433281</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="State District Wise">6cbacb9cdba0d410cfe3c4ab0b9619d2</sys_audit_delete>
+        <sys_audit_delete display_value="">6cbacb9cdba0d410cfe3c4ab0b9619d2</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-04-29 13:05:04</sys_created_on>

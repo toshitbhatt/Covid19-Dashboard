@@ -52,7 +52,7 @@
         <update_guid_history>4a677a4073605410948a6c990c468a90:-999273697</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="State">93aa4750dbe0d410cfe3c4ab0b9619f4</sys_audit_delete>
+        <sys_audit_delete display_value="">93aa4750dbe0d410cfe3c4ab0b9619f4</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>toshit.bhatt</sys_created_by>
         <sys_created_on>2020-04-29 13:04:59</sys_created_on>
