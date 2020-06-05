@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>48e5c134dbf81810cfe3c4ab0b961961</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_30570_covid19_state_district_wise">
+    <x_30570_covid19_state_district_wise action="INSERT_OR_UPDATE">
+        <active_cases>12</active_cases>
+        <confirmed_cases>12</confirmed_cases>
+        <deceased>0</deceased>
+        <delta_confirmed>4</delta_confirmed>
+        <delta_deceased>0</delta_deceased>
+        <delta_recovered>0</delta_recovered>
+        <district_name>Alipurduar</district_name>
+        <location display_value="Alipurduar">48e5c134dbf81810cfe3c4ab0b961960</location>
+        <notes/>
+        <recovered>0</recovered>
+        <stat_updated_on>2020-06-04 14:45:21</stat_updated_on>
+        <state display_value="West Bengal">537fc7d8dba8d410cfe3c4ab0b9619bc</state>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-05-13 02:57:26</sys_created_on>
+        <sys_id>48e5c134dbf81810cfe3c4ab0b961961</sys_id>
+        <sys_mod_count>1058</sys_mod_count>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-06-04 14:45:21</sys_updated_on>
+    </x_30570_covid19_state_district_wise>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-06-04 14:59:46</sys_created_on>
+        <sys_id>b32ef4442f911010c240d8492799b6ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alipurduar</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>sys_metadata_link_b32ef4442f911010c240d8492799b6ac</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-06-04 14:59:46</sys_updated_on>
+        <tablename>x_30570_covid19_state_district_wise</tablename>
+    </sys_metadata_link>
+</record_update>

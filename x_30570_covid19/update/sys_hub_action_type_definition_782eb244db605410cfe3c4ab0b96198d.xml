@@ -13,7 +13,7 @@
         <ih_action>true</ih_action>
         <internal_name>call_covid19_api</internal_name>
         <label_cache>[{"name":"{{step[6ccf003e-90dd-46dc-9da9-5e7a7352ea11].response_body}}","label":"step➛REST step➛Response Body","type":"step","ref":""},{"name":"{{step[6ccf003e-90dd-46dc-9da9-5e7a7352ea11].status_code}}","label":"step➛REST step➛Status Code","type":"step","ref":""},{"name":"{{step[6ccf003e-90dd-46dc-9da9-5e7a7352ea11].error_message}}","label":"step➛REST step➛Error Message","type":"step","ref":""},{"name":"{{step[0f0f3f47-fe1e-408f-b22d-26065fcabbb3].variable}}","label":"step➛Script step➛variable","type":"step","ref":""},{"name":"{{step[0f0f3f47-fe1e-408f-b22d-26065fcabbb3].infomsg}}","label":"step➛Script step➛info","type":"step","ref":""},{"name":"{{step[0f0f3f47-fe1e-408f-b22d-26065fcabbb3].info}}","label":"step➛Script step➛info","type":"step","ref":""}]</label_cache>
-        <latest_snapshot>033664882f111010c240d8492799b6a3</latest_snapshot>
+        <latest_snapshot>f5dabc802f911010c240d8492799b643</latest_snapshot>
         <master_snapshot>f7108708db605410cfe3c4ab0b96194b</master_snapshot>
         <name>Call State District API</name>
         <natlang/>

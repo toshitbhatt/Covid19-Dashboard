@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>0210afc7dbc91010cfe3c4ab0b9619e3</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_30570_covid19_date_wise_cases">
+    <x_30570_covid19_date_wise_cases action="INSERT_OR_UPDATE">
+        <active>1313</active>
+        <daily_confirmed/>
+        <daily_deceased/>
+        <daily_recovered/>
+        <date>2020-06-02</date>
+        <delta_confirmed>115</delta_confirmed>
+        <delta_deceased>0</delta_deceased>
+        <delta_recovered>40</delta_recovered>
+        <last_updated>2020-01-02 12:39:05</last_updated>
+        <state display_value="Andhra Pradesh">5f7f4f10dba8d410cfe3c4ab0b961936</state>
+        <state_code>AP</state_code>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-06-02 00:13:15</sys_created_on>
+        <sys_id>0210afc7dbc91010cfe3c4ab0b9619e3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-06-02 07:43:23</sys_updated_on>
+        <total_confirmed>3791</total_confirmed>
+        <total_deceased>64</total_deceased>
+        <total_recovered>2414</total_recovered>
+    </x_30570_covid19_date_wise_cases>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>toshit.bhatt</sys_created_by>
+        <sys_created_on>2020-06-04 14:54:44</sys_created_on>
+        <sys_id>b90db8042f911010c240d8492799b680</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2020-06-01 17:13:15</sys_name>
+        <sys_package display_value="Covid19" source="x_30570_covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19">f81e10efdb50d010cfe3c4ab0b96195f</sys_scope>
+        <sys_update_name>sys_metadata_link_b90db8042f911010c240d8492799b680</sys_update_name>
+        <sys_updated_by>toshit.bhatt</sys_updated_by>
+        <sys_updated_on>2020-06-04 14:54:44</sys_updated_on>
+        <tablename>x_30570_covid19_date_wise_cases</tablename>
+    </sys_metadata_link>
+</record_update>
